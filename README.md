@@ -38,12 +38,15 @@ To access ADNI data, please register at: [https://adni.loni.usc.edu](https://adn
 ---
 
 ## If you use this code or model in your work, please cite:
+
+```bibtex
 @article{Li2025AD_DigitalTwin,
-  author  = {Chunyan Li, Yutong Mao, Xiao Liu, and Wenrui Hao},
+  author  = {Chunyan Li and Yutong Mao and Xiao Liu and Wenrui Hao},
   title   = {Data-driven spatiotemporal modeling reveals personalized trajectories of cortical atrophy in Alzheimer's disease},
   journal = {Nature Communications},
   year    = {2025},
   note    = {Under review}
 }
+
 
 ## 🧩 Repository Structure
