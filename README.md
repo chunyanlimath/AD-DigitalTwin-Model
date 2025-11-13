@@ -45,7 +45,6 @@ To access ADNI data, please register at: [https://adni.loni.usc.edu](https://adn
   author  = {Chunyan Li and Yutong Mao and Xiao Liu and Wenrui Hao},
   title   = {Data-driven spatiotemporal modeling reveals personalized trajectories of cortical atrophy in Alzheimer's disease},
   journal = {Nature Communications},
-  doi = {https://arxiv.org/abs/2511.08847}
   year    = {2025},
   note    = {Under review}
 }
